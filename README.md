@@ -31,3 +31,5 @@ O teste consiste em um checkout simples contendo 3 passos (carrinho, pagamento e
 Ao finalizar o teste, **publique o seu projet em alguma url (vercel, netlify, surge, etc)**.
 
 Boa sorte! 🚀
+
+OBS: Achamos que entre 3 a 5 dias é um tempo ok para fazer o desafio, mas sabemos que nem todo mundo tem o mesmo tempo de disponibilidade. Portanto, nos avise se precisar de mais tempo, ok?
